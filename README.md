@@ -20,10 +20,9 @@
 
   <br>
   
-  ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="25" height="25" /> Technologies
+  ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="25" height="25" /> Tech Stack
   
   <!--- technologies ## --> 
-  ### Main Skills: 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><!--- Python -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><!--- C -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><!--- PostgreSQL -->
