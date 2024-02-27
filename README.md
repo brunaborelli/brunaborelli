@@ -5,7 +5,7 @@
 -----------------------
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaborelli&layout=compact" alt="Top Langs" width="270px" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaborelli&layout=compact&theme=nightowl" alt="Top Langs" width="270px" align="right"/>
 
 <div align="left">
 
