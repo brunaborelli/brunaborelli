@@ -24,12 +24,15 @@
   
   <!--- technologies ## --> 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><!--- Python -->
+  <img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white&color=8338ec"/><!--- kotlin -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><!--- C -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><!--- PostgreSQL -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><!--- JS -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><!--- HTML -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><!--- CSS -->
-  <img src="https://custom-icon-badges.demolab.com/badge/SQL-023047a.svg?style=for-the-badge&logo=database&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><!--- PostgreSQL -->
+  <img src="https://custom-icon-badges.demolab.com/badge/SQL-023047a.svg?style=for-the-badge&logo=database&logoColor=white"/><!--- sql -->
+  
 
 
   <!--- ## contacts ## -->
